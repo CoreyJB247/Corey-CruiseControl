@@ -5,6 +5,6 @@ Config.CruiseCommand = "cc" -- Change here your command to enable the cruiser
 Config.OffCruiseCommand = "ccoff" -- Change here your command to disable the cruiser
 
 Config.KeyMap = true -- If u set this at false u can't use the cruiser with keymapping
-Config.KeyBind = "Y" -- If u want to change this to another key use this page https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
+Config.KeyBind = "CAPITAL" -- If u want to change this to another key use this page https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
 
 Config.Speed = "mph" -- Here u can put km or mph
